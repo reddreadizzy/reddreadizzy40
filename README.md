@@ -20,3 +20,8 @@
   </footer>
 </body>
 </html>
+<nav>
+  <a href="artifact1.html">NBA 2K Rubric</a>
+  <a href="artifact2.html">Service Page</a>
+</nav>
+<img src="nba2k-cover.jpg" alt="NBA 2K24 cover showing a basketball player">
